@@ -8,3 +8,9 @@ To Stop the app again, simply call `docker-compose down`
 ## Dependencies:
 - [https://www.docker.com/](https://docs.docker.com/engine/installation/)
 - [https://docs.docker.com/compose/](https://docs.docker.com/compose/install/)
+
+## GitHub
+[https://github.com/pascalwacker/counter-php-redis](https://github.com/pascalwacker/counter-php-redis)
+
+## Docker Hub
+[https://hub.docker.com/r/pascalwacker/counter-php-redis/](https://hub.docker.com/r/pascalwacker/counter-php-redis/)
